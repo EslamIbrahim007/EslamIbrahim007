@@ -1,12 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Eslam Ibrahim</p>
-
-###
-
-<h2 align="center">About me</h2>
+<h1 align="center">Hey 👋 I'm Eslam Ibrahim</h1>
 
 ###
 
