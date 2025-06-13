@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">✨ 👨‍💻🥷 Node Js Developer | Interested in Cyber Security 👨‍💻🥷<br><br>📚 I'm currently, I am still learning<br>       and I will always still</p>
+<p align="center">✨ 👨‍💻🥷 Node Js Developer | Interested in Cyber Security 👨‍💻🥷<br><br>📚 I'm currently still learning<br>       and I will always still</p>
 
 ###
 
